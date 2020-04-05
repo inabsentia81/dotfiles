@@ -1,0 +1,18 @@
+{
+   "chrome_url_overrides": {
+      "newtab": "index.html"
+   },
+   "description": "A neutral new tab page accented with a chosen colour. Customise the layout, style, background and bookmarks in nightTab.",
+   "differential_fingerprint": "1.676e78fd87010b0be051868eb99fbb0ad1fcebb3d28e69c0b9aed8a4f53843c0",
+   "icons": {
+      "128": "icons/icon-128.png",
+      "16": "icons/icon-16.png",
+      "48": "icons/icon-48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAk9sPd0CAaXvfz4WdO/uFrqykYYgtU0gRFqJpeMbK/utjOOsYKMqo7KyAt9d/dzveRJxp4IMGFZWNo+gp4eUB3LJoMmBctFkJ1geiU8999Wbp6m2xB6E7rShEzyYiLyvIc/hY/sU/nAhfjCKuN+wZ+uJVL9wUCY6EaGHjEDXTSaMQ9QYXegf5Mn5LL1jUGRNvuNnIsOaOa+8zk5CUQcU49e2e70dxZjBVD8sdxursJ1RNUbTnI2Xxjd93OO7lezrXcKfRLr6c3owMqeDOF7C/RjL4yOwPjF7uVrAjL8lQtMcQR1IHVFlRQxYfAKXCC2u3jYqVNEZU7HMmpyhFuUYVOwIDAQAB",
+   "manifest_version": 2,
+   "name": "nightTab",
+   "short_name": "nightTab",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "5.5.2"
+}

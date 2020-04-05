@@ -1,0 +1,4 @@
+feh 	--scale-down \
+	--borderless \
+	--no-menus \
+    --geometry 960x540 

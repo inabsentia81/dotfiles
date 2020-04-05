@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/inabsentia81/Downloads" added="2020-04-01T16:00:49Z" modified="2020-04-05T06:31:29Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="nitrogen" exec="&apos;nitrogen %u&apos;" modified="2020-04-01T16:00:49Z" count="1"/>
+          <bookmark:application name="Archive Manager" exec="&apos;file-roller %u&apos;" modified="2020-04-05T06:31:29Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/inabsentia81/Downloads/wallhaven-zmr6qv.png" added="2020-04-01T17:16:16Z" modified="2020-04-01T17:16:16Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="wpg" exec="&apos;wpg %u&apos;" modified="2020-04-01T17:16:16Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/inabsentia81/chromefy/brunch_r80_k4.19_testing_20200326.tar.gz" added="2020-04-03T13:14:23Z" modified="2020-04-03T13:14:23Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2020-04-03T13:14:23Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/inabsentia81/chromefy" added="2020-04-03T13:14:47Z" modified="2020-04-03T13:18:25Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Archive Manager" exec="&apos;file-roller %u&apos;" modified="2020-04-03T13:18:25Z" count="5"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/inabsentia81/chromefy/Camd64OS_R80-12739.B-Special.7z" added="2020-04-03T13:15:01Z" modified="2020-04-03T13:15:01Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-7z-compressed"/>
+        <bookmark:applications>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2020-04-03T13:15:01Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/inabsentia81/chromefy/Camd64OS_R80-12739.B-Vanilla.7z" added="2020-04-03T13:17:04Z" modified="2020-04-03T13:17:04Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-7z-compressed"/>
+        <bookmark:applications>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2020-04-03T13:17:04Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/inabsentia81/chromefy/chromeos_12739.105.0_eve_recovery_stable-channel_mp-v2.bin.zip" added="2020-04-03T13:17:37Z" modified="2020-04-03T13:17:37Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2020-04-03T13:17:37Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/inabsentia81/chromefy/chromeos_12739.105.0_caroline_recovery_stable-channel_mp.bin.zip" added="2020-04-03T13:18:21Z" modified="2020-04-03T13:18:21Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2020-04-03T13:18:21Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/inabsentia81/Walls/wallhaven-0w9vrr.jpg" added="2020-04-04T22:49:43Z" modified="2020-04-04T22:49:43Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="wpg" exec="&apos;wpg %u&apos;" modified="2020-04-04T22:49:43Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/inabsentia81/Walls/wallhaven-1jzwjv.jpg" added="2020-04-04T22:49:43Z" modified="2020-04-04T22:49:43Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="wpg" exec="&apos;wpg %u&apos;" modified="2020-04-04T22:49:43Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/inabsentia81/Walls/wallhaven-8xkd9y.jpg" added="2020-04-04T22:49:43Z" modified="2020-04-04T22:49:43Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="wpg" exec="&apos;wpg %u&apos;" modified="2020-04-04T22:49:43Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/inabsentia81/Walls/wallhaven-39klwd.jpg" added="2020-04-04T22:49:43Z" modified="2020-04-04T22:49:43Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="wpg" exec="&apos;wpg %u&apos;" modified="2020-04-04T22:49:43Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/inabsentia81/Walls/wallhaven-4g5vrl.png" added="2020-04-04T22:49:43Z" modified="2020-04-04T22:49:43Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="wpg" exec="&apos;wpg %u&apos;" modified="2020-04-04T22:49:43Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/inabsentia81/Walls/wallhaven-5wqmj8.jpg" added="2020-04-04T22:49:43Z" modified="2020-04-04T22:49:43Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="wpg" exec="&apos;wpg %u&apos;" modified="2020-04-04T22:49:43Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/inabsentia81/Walls/wallhaven-76wkx9.jpg" added="2020-04-04T22:49:43Z" modified="2020-04-04T22:49:43Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="wpg" exec="&apos;wpg %u&apos;" modified="2020-04-04T22:49:43Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/inabsentia81/Walls/wallhaven-mp2jky.jpg" added="2020-04-04T22:49:43Z" modified="2020-04-04T22:49:43Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="wpg" exec="&apos;wpg %u&apos;" modified="2020-04-04T22:49:43Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/inabsentia81/Walls/wallhaven-nzmolg.jpg" added="2020-04-04T22:49:43Z" modified="2020-04-04T22:49:43Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="wpg" exec="&apos;wpg %u&apos;" modified="2020-04-04T22:49:43Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/inabsentia81/Walls/wallhaven-r2738j.jpg" added="2020-04-04T22:49:43Z" modified="2020-04-04T22:49:43Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="wpg" exec="&apos;wpg %u&apos;" modified="2020-04-04T22:49:43Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/inabsentia81/Walls/wallhaven-ymjwql.jpg" added="2020-04-04T22:49:43Z" modified="2020-04-04T22:49:43Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="wpg" exec="&apos;wpg %u&apos;" modified="2020-04-04T22:49:43Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/inabsentia81/Walls/wallhaven-ymle5k.jpg" added="2020-04-04T22:49:43Z" modified="2020-04-04T22:49:43Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="wpg" exec="&apos;wpg %u&apos;" modified="2020-04-04T22:49:43Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/inabsentia81/Walls/wallhaven-zmr6qv.png" added="2020-04-04T22:49:43Z" modified="2020-04-04T22:49:43Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="wpg" exec="&apos;wpg %u&apos;" modified="2020-04-04T22:49:43Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/inabsentia81/Walls/wallhaven-6qqx6q.png" added="2020-04-04T22:49:43Z" modified="2020-04-04T22:49:43Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="wpg" exec="&apos;wpg %u&apos;" modified="2020-04-04T22:49:43Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/inabsentia81/Walls/wallhaven-13xxrv.jpg" added="2020-04-04T22:49:43Z" modified="2020-04-04T22:49:43Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="wpg" exec="&apos;wpg %u&apos;" modified="2020-04-04T22:49:43Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/inabsentia81/Walls/wallhaven-73ov8v.png" added="2020-04-04T22:49:43Z" modified="2020-04-04T22:49:43Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="wpg" exec="&apos;wpg %u&apos;" modified="2020-04-04T22:49:43Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/inabsentia81/Walls/wallhaven-gj29ke.jpg" added="2020-04-04T22:49:43Z" modified="2020-04-04T22:49:43Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="wpg" exec="&apos;wpg %u&apos;" modified="2020-04-04T22:49:43Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/inabsentia81/dotfiles" added="2020-04-05T06:38:43Z" modified="2020-04-05T06:45:37Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="gitkraken" exec="&apos;gitkraken %u&apos;" modified="2020-04-05T06:45:37Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/inabsentia81/Downloads/NCR-USB.tar.gz" added="2020-04-05T06:48:30Z" modified="2020-04-05T06:50:02Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2020-04-05T06:50:02Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

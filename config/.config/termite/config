@@ -1,0 +1,119 @@
+[options]
+scroll_on_output = false
+scroll_on_keystroke = true
+audible_bell = false
+mouse_autohide = true
+allow_bold = true
+dynamic_title = true
+urgent_on_bell = true
+clickable_url = true
+hyperlinks = true
+### 0Oo I1l ←↓↑→ {} [] ()
+# font = Inconsolata, FontAwesome 11.2
+#font = Inconsolata LGC, FontAwesome 9.25
+# font = PragmataPro, FontAwesome 10.855
+# font = Iosevka, FontAwesome 10.75
+# font = mononoki, CamingoCode, FontAwesome 10
+# font = CamingoCode, FontAwesome 10
+# font = PT Mono, FontAwesome 9.25
+# font = Sudo, FontAwesome 12.85
+# font = Sudo, FontAwesome 13.75
+# font = Fira Code, FontAwesome 9.375
+# font = Code New Roman, FontAwesome 10.2
+# font = SF Mono, FontAwesome 9
+# font = Source Code Pro 10.5
+font = Fantasque Sans Mono, FontAwesome 10.85
+# font = Roboto Mono, SF Mono 9.25
+# font = Office Code Pro, FontAwesome 9.375
+# font = IBM Plex Mono, FontAwesome 9.3686
+# font = iA Writer Mono S, FontAwesome 9.375
+# font = Droid Sans Mono Slashed, FontAwesome 9.35
+
+# cell_width_scale = 1.0
+# cell_height_scale = 1.0
+
+scrollback_lines = 1000
+search_wrap = true
+icon_name = terminal
+#geometry = 640x480
+
+# "system", "on" or "off"
+cursor_blink = system
+
+# "block", "underline" or "ibeam"
+cursor_shape = block
+
+# $BROWSER is used by default if set, with xdg-open as a fallback
+#browser = xdg-open
+
+# set size hints for the window
+size_hints = true
+
+# Hide links that are no longer valid in url select overlay mode
+filter_unmatched_urls = true
+
+# emit escape sequences for extra modified keys
+modify_other_keys = true
+
+[colors]
+cursor = #aa0033
+cursor_foreground = #fddddd
+# cursor = #7700aa
+foreground = #dcdcdc
+foreground_bold = #ffffff
+#background = #040404
+
+# 20% background transparency (requires a compositor)
+background = rgba(63, 63, 63, 0.8)
+
+# if unset, will reverse foreground and background
+highlight = #3f3f3f
+
+# colors from color0 to color254 can be set
+# color0 = #3f3f3f
+# color1 = #705050
+# color2 = #60b48a
+# color3 = #dfaf8f
+# color4 = #506070
+# color5 = #dc8cc3
+# color6 = #8cd0d3
+# color7 = #dcdccc
+# color8 = #709080
+# color9 = #dca3a3
+# color10 = #c3bf9f
+# color11 = #f0dfaf
+# color12 = #94bff3
+# color13 = #ec93d3
+# color14 = #93e0e3
+# color15 = #ffffff
+
+color0  = #000000
+color1  = #aa0000
+color2  = #00aa00
+color3  = #aa5500
+color4  = #2244ff
+color5  = #aa00aa
+color6  = #00aaaa
+color7  = #bbbbbb
+color8  = #777777
+color9  = #ff5555
+color10 = #55ff55
+color11 = #ffff55
+color12 = #5599ff
+color13 = #ff55ff
+color14 = #55ffff
+color15 = #ffffff
+
+[hints]
+# font = PragmataPro 13
+# font = PragmataPro 11.25
+#foreground = #dcdccc
+#background = #3f3f3f
+#active_foreground = #e68080
+#active_background = #3f3f3f
+padding = 3
+#border = #3f3f3f
+#border_width = 0.5
+#roundness = 2.0
+
+# vim: ft=dosini cms=#%s

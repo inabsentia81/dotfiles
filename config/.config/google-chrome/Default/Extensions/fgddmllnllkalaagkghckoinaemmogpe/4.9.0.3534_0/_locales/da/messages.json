@@ -1,0 +1,1175 @@
+{
+   "app_description_@firefox@_text": {
+      "description": "The description of the application",
+      "message": "Privat, sikkert og hurtigt. Kontroller ExpressVPN appen direkte fra Firefox, spoof hvor du er henne, og få adgang til indhold hvor som helst fra."
+   },
+   "app_description_text": {
+      "description": "The description of the application",
+      "message": "Styr ExpressVPN appen direkte fra Chrome, spoof hvor du er og se indhold hvor som helst."
+   },
+   "app_name_title": {
+      "description": "The name of the application",
+      "message": "ExpressVPN: VPN proxy til at afblokere alt"
+   },
+   "app_short_name_title": {
+      "description": "The short name of the application",
+      "message": "ExpressVPN "
+   },
+   "error_@firefox@_hide_text": {
+      "message": "Alternativt, så kan du skjule forlængelsen ved at højreklikke på ikonet og vælge \"Fjern fra Værktøjslinje\" eller \"Flyt til menu\"."
+   },
+   "error_FREE_TRIAL_IAP_NON_RENEWAL_EXPIRED_main_button_label": {
+      "message": "Få Abonnement "
+   },
+   "error_FREE_TRIAL_IAP_NON_RENEWAL_EXPIRED_sub_button_label": {
+      "message": "Log Ud"
+   },
+   "error_FREE_TRIAL_IAP_NON_RENEWAL_EXPIRED_title": {
+      "message": "Gratis Prøve Udløbet"
+   },
+   "error_FREE_TRIAL_IAP_RENEWAL_FAILED_main_button_label": {
+      "message": "Opdater Betalingsinfo"
+   },
+   "error_FREE_TRIAL_IAP_RENEWAL_FAILED_sub_button_label": {
+      "message": "Log Ud"
+   },
+   "error_IAP_CONTINUE_USING_p1_text": {
+      "message": "For at fortsætte med at bruge ExpressVPN, opdater venligst betalingsoplysningerne i din iTunes / App Store konto."
+   },
+   "error_IAP_MAIN_title": {
+      "message": "Betaling Mislykkedes"
+   },
+   "error_IAP_WILL_AUTO_ACTIVATE_p2_text": {
+      "message": "ExpressVPN vil automatisk aktivere indenfor 30 minutter når du har opdateret dine oplysninger."
+   },
+   "error_NOT_INSTALLED_chromeOS_manual": {
+      "message": "Hvis Play Store ikke er tilgængelig på din Chromebook, så følg venligst vores [manuel konfiguration] instruktioner."
+   },
+   "error_NOT_INSTALLED_chromeOS_primary_button": {
+      "message": "Installer ExpressVPN"
+   },
+   "error_NOT_INSTALLED_chromeOS_secondary_button": {
+      "message": "Kontakt Support"
+   },
+   "error_NOT_INSTALLED_chromeOS_title": {
+      "description": "Context: This message shows to users on Chromebook (operating Chrome OS). The ExpressVPN app does not work for Chromebook users, for now.  ",
+      "message": "Chrome OS Ikke Understøttet"
+   },
+   "error_NOT_INSTALLED_linux_title": {
+      "message": "App Ikke Fundet"
+   },
+   "error_NOT_INSTALLED_primary_button": {
+      "message": "Installer Skrivebordsapp "
+   },
+   "error_NOT_INSTALLED_secondary_button": {
+      "message": "Få Nyt Abonnement"
+   },
+   "error_NOT_INSTALLED_title": {
+      "message": "App Ikke Installeret"
+   },
+   "error_SUBSCRIPTION_ACTIVE_LAST_IAP_FAILED_main_button_label": {
+      "message": "Opdater Betalingsinfo"
+   },
+   "error_SUBSCRIPTION_ACTIVE_LAST_IAP_FAILED_sub_button_label": {
+      "message": "Senere"
+   },
+   "error_SUBSCRIPTION_EXPIRED_NOGRACE_AUTOBILL_OFF_main_button_label": {
+      "message": "Få Nyt Abonnement"
+   },
+   "error_SUBSCRIPTION_EXPIRED_NOGRACE_AUTOBILL_OFF_sub_button_label": {
+      "message": "Log Ud"
+   },
+   "error_SUBSCRIPTION_EXPIRED_NOGRACE_AUTOBILL_OFF_title": {
+      "message": "Abonnement Udløbet"
+   },
+   "error_SUBSCRIPTION_EXPIRED_NOGRACE_AUTOBILL_ON_main_button_label": {
+      "message": "Opdater Betalingsinfo"
+   },
+   "error_SUBSCRIPTION_EXPIRED_NOGRACE_AUTOBILL_ON_sub_button_label": {
+      "message": "Log Ud"
+   },
+   "error_app_not_found_buy_subscription_button_label": {
+      "message": "Køb et abonnement "
+   },
+   "error_app_not_found_contact_support_text": {
+      "message": "Brug for hjælp? Venligst [kontakt Support]."
+   },
+   "error_app_not_found_download_LINUX_button_label": {
+      "message": "Download Linux App"
+   },
+   "error_app_not_found_download_MAC_button_label": {
+      "message": "Download Mac App"
+   },
+   "error_app_not_found_download_WINDOWS_button_label": {
+      "message": "Download Windows App"
+   },
+   "error_app_not_found_get_started_text": {
+      "message": "Ny til ExpressVPN? [Kom i gang]"
+   },
+   "error_app_not_found_require_CHROMIUM_text": {
+      "message": "Installer venligst ExpressVPN-appen fra Google Play Store."
+   },
+   "error_app_not_found_require_LINUX_snap_text": {
+      "message": "Hvis du installerede din browser fra \u003Cb>Ubuntu Software Center\u003C/b> så vil forlængelsen ikke kunne kommunikere med Linux appen. [Lær mere]"
+   },
+   "error_app_not_found_require_LINUX_text": {
+      "message": "Denne forlængelse kræver ExpressVPN-appen til Linux med et aktivt abonnement."
+   },
+   "error_app_not_found_require_MAC_text": {
+      "message": "Denne forlængelse kræver ExpressVPN-appen til Mac med et aktivt abonnement."
+   },
+   "error_app_not_found_require_WINDOWS_text": {
+      "message": "Denne forlængelse kræver ExpressVPN-appen til Windows med et aktivt abonnement."
+   },
+   "error_btnReturnHome_default": {
+      "message": "Tilbage til Hjem"
+   },
+   "error_business_subscription_expired_contact_support_text": {
+      "message": "Hvis du har nogle spørgsmål, så [kontakt Support]."
+   },
+   "error_business_subscription_expired_signout_button_label": {
+      "message": "Log Ud"
+   },
+   "error_business_subscription_expired_status_text": {
+      "message": "Udløbet (%1)."
+   },
+   "error_business_subscription_expired_text": {
+      "message": "Kontakt venligst kontoejeren for at købe et nyt Business-abonnement."
+   },
+   "error_business_subscription_expired_title": {
+      "message": "Abonnement Udløbet"
+   },
+   "error_compatibility_error_@firefox@_hide_text": {
+      "message": "Alternativt, så kan du skjule forlængelsen ved at højreklikke på ikonet og vælge \"Fjern fra Værktøjslinje\" eller \"Flyt til menu\"."
+   },
+   "error_compatibility_error_hide_text": {
+      "message": "Alternativt, så kan du skjule forlængelsen ved at højreklikke på ikonet og vælge \"Skjul i Chrome menu\"."
+   },
+   "error_compatibility_error_os_version_p1_text": {
+      "message": "Denne forlængelse er på nuværende tidspunkt kun tilgængelig til \u003Cb>macOS 10.10 / Windows 7\u003C/b> og nyere."
+   },
+   "error_compatibility_error_os_version_p2_text": {
+      "message": "Opdater venligst dit operativsystem for at bruge forlængelsen. "
+   },
+   "error_compatibility_error_os_version_update_button_label": {
+      "message": "Lær Mere"
+   },
+   "error_compatibility_error_title": {
+      "message": "Opdater Operativsystemet"
+   },
+   "error_connection_error_check_l1_text": {
+      "message": "Tjek din internetforbindelse"
+   },
+   "error_connection_error_check_l2_text": {
+      "message": "Vælg en anden [VPN placering]"
+   },
+   "error_connection_error_check_l3_text": {
+      "message": "Hvis alt andet mislykkes, så [kontakt Support]."
+   },
+   "error_connection_error_lock_on_text": {
+      "message": "Internettrafik er i øjeblikket blokeret for at beskytte dit privatliv."
+   },
+   "error_connection_error_return_home_button_label": {
+      "message": "Tilbage til Hjem"
+   },
+   "error_connection_error_return_home_button_label_network_lock_off": {
+      "message": "Annuller"
+   },
+   "error_connection_error_return_home_button_label_network_lock_on": {
+      "message": "Afbloker Internet"
+   },
+   "error_connection_error_title": {
+      "message": "Ikke i stand til at oprette forbindelse "
+   },
+   "error_connection_error_to_location_text": {
+      "message": "Kan ikke få forbindelse til\u003Cbr>%LOCATION%."
+   },
+   "error_connection_error_try_again_button_label": {
+      "message": "Prøv Igen"
+   },
+   "error_expired_update_now_link_text": {
+      "message": "Allerede abonneret? [Opdater nu]."
+   },
+   "error_forced_signout_p1_text": {
+      "message": "Du blev logget ud fordi dine kontooplysninger blev opdateret."
+   },
+   "error_forced_signout_p2_linux_text": {
+      "message": "For at fortsætte med at bruge ExpressVPN, så kør venligst denne kommando i den terminal for at logge ind igen:"
+   },
+   "error_forced_signout_p2_text": {
+      "message": "For at fortsætte med at bruge ExpressVPN, log venligst ind igen."
+   },
+   "error_forced_signout_signin_button_label": {
+      "message": "Log Ind"
+   },
+   "error_forced_signout_title": {
+      "message": "Log Ind på ExpressVPN"
+   },
+   "error_fraudster_hint": {
+      "message": "Vi kunne ikke bekræfte dine betalingsoplysninger, så vi har annulleret din betaling."
+   },
+   "error_fraudster_p1_text": {
+      "message": "For at genaktivere dit abonnement,\u003Cbr>e-mail venligst"
+   },
+   "error_fraudster_p2_text": {
+      "description": "Do not translate 'Billing Verification'",
+      "message": "emne: \u003Cspan class='bold DO_NOT_TRANSLATE'>Billing Verification\u003C/span>"
+   },
+   "error_fraudster_p3_text": {
+      "message": "Inkluder venligst et billede af det kreditkort du brugte (med KUN de sidste 4 cifre og navn synlige)."
+   },
+   "error_fraudster_p4_text": {
+      "message": "Inkluder venligst dit telefonnummer (med landekode) og hvornår det er bedst at ringe til dig."
+   },
+   "error_fraudster_p5_text": {
+      "message": "Vores Betalingsteam vil svare indenfor 24–48 timer."
+   },
+   "error_fraudster_question1_text": {
+      "message": "Betalte du med kreditkort?"
+   },
+   "error_fraudster_question2_text": {
+      "message": "Ikke betalt med kreditkort?"
+   },
+   "error_fraudster_title": {
+      "message": "Konto suspenderet "
+   },
+   "error_free_trial_expired_benefits_text": {
+      "message": "Din gratis prøve er udløbet, men det er nemt at få forbindelsen igen."
+   },
+   "error_free_trial_expired_benefits_title": {
+      "message": "Hvorfor Opgradere?"
+   },
+   "error_free_trial_expired_enter_new_code_button_label": {
+      "message": "Indtast aktiveringskode"
+   },
+   "error_free_trial_expired_l1_text": {
+      "message": "Apps til enhver enhed"
+   },
+   "error_free_trial_expired_l2_text": {
+      "message": "30-dages pengene-tilbage-garanti "
+   },
+   "error_free_trial_expired_l3_text": {
+      "message": "160 placeringer verden over"
+   },
+   "error_free_trial_expired_l4_text": {
+      "message": "24/7 kundesupport "
+   },
+   "error_free_trial_expired_l5_text": {
+      "message": "Ubegrænset båndbredde"
+   },
+   "error_free_trial_expired_status_text": {
+      "message": "Udløbet (%1)."
+   },
+   "error_free_trial_expired_title": {
+      "message": "Gratis Prøve udløbet"
+   },
+   "error_free_trial_expired_upgrade_now_button_label": {
+      "message": "Opgrader Nu"
+   },
+   "error_hide_text": {
+      "message": "Alternativt, så kan du skjule forlængelsen ved at højreklikke på ikonet og vælge \"Skjul i Chrome menu\"."
+   },
+   "error_not_activated_LINUX_text": {
+      "message": "Kør venligst denne kommando i din terminal for at aktivere skrivebordsappen:"
+   },
+   "error_not_activated_text": {
+      "message": "Log venligst ind på ExpressVPN skrivebordsappen for at bruge denne forlængelse."
+   },
+   "error_not_activated_title": {
+      "message": "App Ikke Aktiveret"
+   },
+   "error_open_app_@firefox@_text": {
+      "message": "Denne forlængelse kræver at ExpressVPN-appen kører."
+   },
+   "error_open_app_contact_support_button_label": {
+      "message": "Kontakt Support"
+   },
+   "error_open_app_open_app_button_label": {
+      "message": "Åben Skrivebordsapp "
+   },
+   "error_open_app_text": {
+      "message": "Denne forlængelse kræver at ExpressVPN-appen kører."
+   },
+   "error_open_app_title": {
+      "message": "App Ikke Åben"
+   },
+   "error_signout_button": {
+      "message": "Log Ud"
+   },
+   "error_simultaneous_connection_cancel_button_label": {
+      "message": "Annuller"
+   },
+   "error_simultaneous_connection_hint": {
+      "message": "Forbindelsesgrænse nået"
+   },
+   "error_simultaneous_connection_iap_false_p2_text": {
+      "message": "Afbryd venligst forbindelsen til en enhed eller [purchase an additional subscription]."
+   },
+   "error_simultaneous_connection_iap_true_p2_text": {
+      "message": "Afbryd venligst forbindelsen til en enhed."
+   },
+   "error_simultaneous_connection_learn_more_button_label": {
+      "message": "Lær Mere"
+   },
+   "error_simultaneous_connection_ok_button_label": {
+      "message": "OK"
+   },
+   "error_simultaneous_connection_p1_text": {
+      "message": "Du har overskredet ExpressVPN's enhedsbrugsgrænse for dette abonnement."
+   },
+   "error_simultaneous_connection_popup_btn0": {
+      "message": "Annuller"
+   },
+   "error_simultaneous_connection_popup_btn1": {
+      "message": "OK"
+   },
+   "error_simultaneous_connection_popup_text": {
+      "message": "Åbning af dette link vil blokere alt internettrafik."
+   },
+   "error_simultaneous_connection_popup_title": {
+      "message": "Afbloker Internet"
+   },
+   "error_subscription_expired_benefits_text": {
+      "message": "Dit abonnement er udløbet, men det er nemt at få forbindelsen tilbage."
+   },
+   "error_subscription_expired_benefits_title": {
+      "message": "Hvorfor fornye?"
+   },
+   "error_subscription_expired_buy_subscription_button_label": {
+      "message": "Få Nyt Abonnement"
+   },
+   "error_subscription_expired_enter_new_code_button_label": {
+      "message": "Indtast aktiveringskode"
+   },
+   "error_subscription_expired_get_subscription_button_label": {
+      "message": "Få abonnement"
+   },
+   "error_subscription_expired_l1_text": {
+      "message": "Apps til enhver enhed"
+   },
+   "error_subscription_expired_l2_text": {
+      "message": "Henvis venner, få 30 dage gratis "
+   },
+   "error_subscription_expired_l3_text": {
+      "message": "160 placeringer verden over"
+   },
+   "error_subscription_expired_l4_text": {
+      "message": "24/7 kundesupport "
+   },
+   "error_subscription_expired_status_text": {
+      "message": "Udløbet (%1)."
+   },
+   "error_subscription_expired_title": {
+      "message": "Abonnement udløbet"
+   },
+   "error_subscription_expiring_autobill_later_button_label": {
+      "message": "Senere"
+   },
+   "error_subscription_expiring_autobill_p1_text": {
+      "message": "For at fortsætte med at bruge ExpressVPN, opdater venligst dine betalingsoplysninger."
+   },
+   "error_subscription_expiring_autobill_title": {
+      "message": "Betaling Mislykkedes"
+   },
+   "error_subscription_expiring_autobill_update_payment_button_label": {
+      "message": "Opdater Betalingsinfo"
+   },
+   "error_subscription_expiring_later_button_label": {
+      "message": "Senere"
+   },
+   "error_subscription_expiring_p1_text": {
+      "message": "For at fortsætte med at bruge ExpressVPN, forny venligst dit abonnement."
+   },
+   "error_subscription_expiring_renew_button_label": {
+      "message": "Forny Nu"
+   },
+   "error_subscription_expiring_title": {
+      "message": "Abonnement Udløber"
+   },
+   "error_upgrade_app_button_label": {
+      "message": "Opgrader Nu"
+   },
+   "error_upgrade_app_header_title": {
+      "message": "Opdater App"
+   },
+   "error_upgrade_app_text": {
+      "message": "Denne forlængelse kræver den nyeste version af ExpressVPN-appen."
+   },
+   "general_contact_support_button_label": {
+      "message": "Kontakt Support"
+   },
+   "hint_connection_delay_text": {
+      "message": "Prøver stadig at oprette forbindelse."
+   },
+   "hint_network_state_captive_portal_text": {
+      "message": "Log venligst ind på wi-fi-netværket for at bruge VPN'en."
+   },
+   "hint_network_state_no_internet_connecting_text": {
+      "message": "Kan ikke finde internetforbindelse.\u003Cbr>VPN vil forbinde når det er muligt."
+   },
+   "hint_network_state_no_internet_ready_text": {
+      "message": "Kan ikke finde internetforbindelse.\u003Cbr>VPN er muligvis utilgængelig."
+   },
+   "hint_network_state_no_internet_reconnecting_text": {
+      "message": "Internetforbindelse tabt.\u003Cbr>VPN vil genforbinde når det er muligt."
+   },
+   "hint_network_state_not_ready_text": {
+      "message": "Vent venligst imens dit netværk bliver klar."
+   },
+   "hint_network_state_not_sure_connecting_text": {
+      "message": "Kan ikke finde internetforbindelse. VPN vil oprette forbindelse når det bliver muligt."
+   },
+   "hint_network_state_not_sure_ready_text": {
+      "message": "Kan ikke finde internetforbindelse. VPN kan være utilgængelig."
+   },
+   "hint_network_state_not_sure_reconnecting_text": {
+      "message": "Kan ikke finde internetforbindelse. VPN vil oprette forbindelse når det bliver muligt."
+   },
+   "hint_no_internet_connecting_text": {
+      "message": "Kan ikke finde internetforbindelse.\u003Cbr>VPN vil oprette forbindelse når det er muligt."
+   },
+   "hint_no_internet_ready_text": {
+      "message": "Kan ikke finde internetforbindelse.\u003Cbr>VPN kan være utilgængelig."
+   },
+   "hint_no_internet_reconnecting_text": {
+      "message": "Internetforbindelse tabt.\u003Cbr>VPN vil genoprette forbindelsen når det er muligt."
+   },
+   "hint_reconnecting_network_lock_off_text": {
+      "message": "Forbindelse tabt uventet. Genforbinder..."
+   },
+   "hint_reconnecting_network_lock_on_text": {
+      "message": "Internettrafik er nu blokeret for at beskytte dit privatliv."
+   },
+   "hint_saved_text": {
+      "message": "Gemt"
+   },
+   "home_change_location_popup_btn0": {
+      "message": "Annuller"
+   },
+   "home_change_location_popup_btn1": {
+      "message": "Fortsæt"
+   },
+   "home_change_location_popup_text": {
+      "message": "Din internettrafik kan være usikker imens forbindelsen bliver genoprettet."
+   },
+   "home_change_location_popup_title": {
+      "message": "Ændre Placering"
+   },
+   "home_report_issue_label": {
+      "message": "Feedback"
+   },
+   "home_report_issue_text": {
+      "message": "Hvordan var din forbindelse?"
+   },
+   "issue_reporter_describe_textarea_label": {
+      "message": "Beskriv dit problem"
+   },
+   "issue_reporter_header": {
+      "message": "Hvad skete der?"
+   },
+   "issue_reporter_hint_default_text": {
+      "message": "Har du prøvet at oprette forbindelse til en anden serverplacering?"
+   },
+   "issue_reporter_hint_not_sent_text": {
+      "message": "Kunne ikke sende. Tjek venligst din forbindelse og prøv igen."
+   },
+   "issue_reporter_hint_opt3": {
+      "message": "Har du prøvet at oprette forbindelse til en serverplacering i landet hvor den service du gerne vil benytte befinder sig?"
+   },
+   "issue_reporter_hint_opt6": {
+      "message": "Har du prøvet at oprette forbindelse til en anden serverplacering eller ændre VPN protokol?"
+   },
+   "issue_reporter_home_button_label": {
+      "message": "Hjem"
+   },
+   "issue_reporter_location_placeholder": {
+      "message": "Min placering"
+   },
+   "issue_reporter_need_help_header": {
+      "message": "Brug for hjælp?"
+   },
+   "issue_reporter_opt1": {
+      "message": "Streamingproblemer"
+   },
+   "issue_reporter_opt2": {
+      "message": "Kan ikke få adgang til nogen hjemmesider"
+   },
+   "issue_reporter_opt3": {
+      "message": "Kan ikke få adgang til en bestemt hjemmeside"
+   },
+   "issue_reporter_opt4": {
+      "message": "Forkert sprog eller valuta"
+   },
+   "issue_reporter_opt5": {
+      "message": "For mange CAPTCHA tests"
+   },
+   "issue_reporter_opt6": {
+      "message": "Langsom internetforbindelse"
+   },
+   "issue_reporter_opt7": {
+      "message": "Forbindelsen bliver afbrudt hyppigt"
+   },
+   "issue_reporter_opt8": {
+      "message": "Andet"
+   },
+   "issue_reporter_report_sent_header": {
+      "message": "Rapport sendt"
+   },
+   "issue_reporter_send_button_label": {
+      "message": "Send Rapport"
+   },
+   "issue_reporter_sending_button_label": {
+      "message": "Sender..."
+   },
+   "issue_reporter_share_website_label": {
+      "message": "Del hjemmeside med ExpressVPN"
+   },
+   "issue_reporter_support_button_label": {
+      "message": "Kontakt Support"
+   },
+   "issue_reporter_thank_you_message": {
+      "message": "Tak for din hjælp med at forbedre service for alle ExpressVPN kunder."
+   },
+   "issue_reporter_title": {
+      "message": "Rapportér et Problem"
+   },
+   "issue_reporter_website_label": {
+      "message": "Hjemmeside"
+   },
+   "language_dropdown_danish": {
+      "description": "Do not translate the text between parentheses",
+      "message": "Dansk (Dansk)"
+   },
+   "language_dropdown_dutch": {
+      "description": "Do not translate the text between parentheses",
+      "message": "Hollandsk (Nederlands)"
+   },
+   "language_dropdown_english": {
+      "description": "Do not translate the text between parentheses",
+      "message": "Engelsk (English)"
+   },
+   "language_dropdown_finnish": {
+      "description": "Do not translate the text between parentheses",
+      "message": "Finsk (Suomi)"
+   },
+   "language_dropdown_french": {
+      "description": "Do not translate the text between parentheses",
+      "message": "Fransk (Français)"
+   },
+   "language_dropdown_german": {
+      "description": "Do not translate the text between parentheses",
+      "message": "Tysk (Deutsch)"
+   },
+   "language_dropdown_italian": {
+      "description": "Do not translate the text between parentheses",
+      "message": "Italiensk (Italiano)"
+   },
+   "language_dropdown_japanese": {
+      "description": "Do not translate the text between parentheses",
+      "message": "Japansk (日本語)"
+   },
+   "language_dropdown_korean": {
+      "description": "Do not translate the text between parentheses",
+      "message": "Koreansk (한국어)"
+   },
+   "language_dropdown_norwegian": {
+      "description": "Do not translate the text between parentheses",
+      "message": "Norsk (Norsk)"
+   },
+   "language_dropdown_polish": {
+      "description": "Do not translate the text between parentheses",
+      "message": "Polsk (Polski)"
+   },
+   "language_dropdown_portuguese": {
+      "description": "Do not translate the text between parentheses",
+      "message": "Portugisisk (Português)"
+   },
+   "language_dropdown_russian": {
+      "description": "Do not translate the text between parentheses",
+      "message": "Russisk (Русский)"
+   },
+   "language_dropdown_spanish": {
+      "description": "Do not translate the text between parentheses",
+      "message": "Spansk (Español)"
+   },
+   "language_dropdown_swedish": {
+      "description": "Do not translate the text between parentheses",
+      "message": "Svensk (Svenska)"
+   },
+   "language_dropdown_thai": {
+      "description": "Do not translate the text between parentheses",
+      "message": "Thai (ภาษาไทย)"
+   },
+   "language_dropdown_turkish": {
+      "description": "Do not translate the text between parentheses",
+      "message": "Tyrkisk (Türkçe)"
+   },
+   "list_item_247_support": {
+      "message": "24/7 kundesupport "
+   },
+   "list_item_30day_guarantee": {
+      "message": "30-dages pengene-tilbage garanti "
+   },
+   "list_item_apps_for_every_device": {
+      "message": "Apps til enhver enhed"
+   },
+   "list_item_locations_worldwide": {
+      "message": "160 placeringer verden over"
+   },
+   "list_item_refer_frieds": {
+      "message": "Henvis venner, få 30 dage gratis "
+   },
+   "list_item_unlimited_bandwidth": {
+      "message": "Ubegrænset båndbredde"
+   },
+   "location_picker_locations_title": {
+      "message": "VPN Placeringer"
+   },
+   "location_picker_recent_locations_text": {
+      "message": "Nylige Placeringer"
+   },
+   "location_picker_recommended_locations_text": {
+      "message": "Anbefalede Placeringer"
+   },
+   "location_picker_search_no_results_text": {
+      "message": "INGEN RESULTATER"
+   },
+   "location_picker_search_placeholder_text": {
+      "message": "Søg efter by eller land"
+   },
+   "location_picker_smart_location_text": {
+      "message": "Smart Location"
+   },
+   "location_picker_tab_all_text": {
+      "message": "Alle Placeringer"
+   },
+   "location_picker_tab_recommended_text": {
+      "message": "Anbefalet"
+   },
+   "main_screen_current_location_text": {
+      "message": "Nuværende Placering"
+   },
+   "main_screen_recent_location_text": {
+      "message": "Nylig Placering"
+   },
+   "main_screen_selected_location_text": {
+      "message": "Valgte Placering"
+   },
+   "main_screen_smart_location_text": {
+      "message": "Smart Location"
+   },
+   "main_screen_status_vpn_connected_text": {
+      "message": "Forbundet"
+   },
+   "main_screen_status_vpn_connecting_text": {
+      "message": "Forbinder"
+   },
+   "main_screen_status_vpn_disconnecting_text": {
+      "message": "Afbryder Forbindelsen"
+   },
+   "main_screen_status_vpn_ready_text": {
+      "message": "Ikke Forbundet"
+   },
+   "main_screen_status_vpn_reconnecting_text": {
+      "message": "Genopretter forbindelsen"
+   },
+   "main_screen_status_vpn_speedtesting_text": {
+      "message": "Hastighedstest kører"
+   },
+   "menu_beta_feedback": {
+      "message": "Send Beta Feedback"
+   },
+   "menu_cancel_text": {
+      "message": "Annuller"
+   },
+   "menu_connection_startup_@firefox@_header": {
+      "description": "Settings startup header",
+      "message": "Firefox Startup"
+   },
+   "menu_connection_startup_text": {
+      "message": "Opret forbindelse ved browser start"
+   },
+   "menu_desktop_notification_text": {
+      "message": "Vis skrivebordsmeddelelser "
+   },
+   "menu_get_30_days_free": {
+      "message": "Få 30 Dage Gratis"
+   },
+   "menu_help_support": {
+      "message": "Hjælp & Support"
+   },
+   "menu_item_DNS_leak_test_text": {
+      "message": "DNS Læktest"
+   },
+   "menu_item_acknowledgements_text": {
+      "message": "Anerkendelser"
+   },
+   "menu_item_app_version_text": {
+      "message": "%OS% app version: %VERSION%"
+   },
+   "menu_item_contact_support_text": {
+      "message": "Kontakt Support"
+   },
+   "menu_item_diagnostic_text": {
+      "message": "Diagnostiske oplysninger "
+   },
+   "menu_item_extension_version_text": {
+      "message": "Forlængelsesversion: %VERSION%"
+   },
+   "menu_item_faq_text": {
+      "message": "Ofte Stillede Spørgsmål"
+   },
+   "menu_item_ip_address_checker_text": {
+      "message": "IP Adresse Tjekker"
+   },
+   "menu_item_webRTC_leak_test_text": {
+      "message": "WebRTC Læktest"
+   },
+   "menu_keyboard_shortcut_text": {
+      "message": "Åben med tastaturgenvej"
+   },
+   "menu_my_account": {
+      "message": "Konto"
+   },
+   "menu_myaccount_title": {
+      "message": "Konto"
+   },
+   "menu_privacy_block_webrtc_text": {
+      "message": "Bloker WebRTC "
+   },
+   "menu_privacy_enable_https_everywhere_text": {
+      "message": "HTTPS Everywhere"
+   },
+   "menu_privacy_hide_location_text": {
+      "message": "Spoof din placering "
+   },
+   "menu_rate_expressvpn": {
+      "message": "Bedøm ExpressVPN "
+   },
+   "menu_section_about_title": {
+      "message": "Om"
+   },
+   "menu_section_support_chat_menu_label": {
+      "message": "Tal med os"
+   },
+   "menu_section_support_improvements_menu_label": {
+      "message": "Foreslå en forbedring"
+   },
+   "menu_section_support_report_menu_label": {
+      "message": "Rapportér et problem"
+   },
+   "menu_section_support_title": {
+      "message": "Kontakt os"
+   },
+   "menu_settings_general_display_header": {
+      "message": "Displaypræferencer"
+   },
+   "menu_settings_general_display_label": {
+      "message": "Displaytilstand"
+   },
+   "menu_settings_general_header": {
+      "message": "Generelt"
+   },
+   "menu_settings_general_language_header": {
+      "message": "Forlængelsessprog"
+   },
+   "menu_settings_general_language_label": {
+      "message": "Sprog"
+   },
+   "menu_settings_general_name": {
+      "message": "Indstillinger "
+   },
+   "menu_settings_general_open_app_settings_button_label": {
+      "message": "Konfigurer Skrivebordsapp Indstillinger"
+   },
+   "menu_settings_help_button_label": {
+      "message": "Hjælp"
+   },
+   "menu_settings_privacy_block_webrtc_description_text": {
+      "message": "Forhindrer internetsider i at opdage din sande IP-adresse og placering når du er forbundet til VPN."
+   },
+   "menu_settings_privacy_hide_location_description_text": {
+      "message": "Stop HTML5 geolocation fra at afsløre dit fysiske opholdssted når du er forbundet til VPN."
+   },
+   "menu_settings_privacy_https_everywhere_description_text": {
+      "message": "Genopret automatisk forbindelsen til den mere sikre HTTPS version af hjemmesider når de er tilgængelige."
+   },
+   "menu_settings_privacy_learn_more_button_label": {
+      "message": "Lær Mere"
+   },
+   "menu_settings_privacy_security_name": {
+      "message": "Privatliv & Sikkerhed"
+   },
+   "menu_settings_settings_general_title": {
+      "message": "Indstillinger "
+   },
+   "menu_settings_settings_privacy_title": {
+      "message": "Privatlivsindstillinger "
+   },
+   "menu_setup_other_devices": {
+      "message": "Opsæt Andre Enheder"
+   },
+   "menu_signout_p1_text": {
+      "message": "Er du sikker? Du vil også blive logget ud af skrivebordsappen."
+   },
+   "menu_signout_text": {
+      "message": "Log Ud"
+   },
+   "myaccount_account_active_p1_text": {
+      "message": "Del ExpressVPN og få gratis service!"
+   },
+   "myaccount_account_active_p2_text": {
+      "message": "For hver ven der tilmelder sig, giver vi jer begge 30 dage gratis."
+   },
+   "myaccount_account_expired_label": {
+      "message": "Udløbet "
+   },
+   "myaccount_account_expiry_label": {
+      "message": "Udløber "
+   },
+   "myaccount_account_payment_due_label": {
+      "message": "Betaling forfalden siden"
+   },
+   "myaccount_account_renews_label": {
+      "message": "Fornyer"
+   },
+   "myaccount_account_status_active_text": {
+      "message": "Aktiv"
+   },
+   "myaccount_account_status_expired_text": {
+      "message": "Udløbet "
+   },
+   "myaccount_account_status_free_trial_active_text": {
+      "message": "Prøve"
+   },
+   "myaccount_account_status_label": {
+      "message": "Kontostatus "
+   },
+   "myaccount_account_status_trial_expired_text": {
+      "message": "Prøve udløbet "
+   },
+   "myaccount_account_status_trial_text": {
+      "message": "Prøve"
+   },
+   "myaccount_account_subscription_starts_label": {
+      "message": "Abonnement begynder"
+   },
+   "myaccount_active_refer_button_label": {
+      "message": "Henvis Venner"
+   },
+   "myaccount_expiring_buy_button_label": {
+      "message": "Køb Nu"
+   },
+   "myaccount_expiring_renew_button_label": {
+      "message": "Forny Nu"
+   },
+   "myaccount_expiring_upgrade_button_label": {
+      "message": "Opgrader Nu"
+   },
+   "myaccount_manage_button_label": {
+      "message": "Administrer Konto"
+   },
+   "myaccount_manage_subscription_button_label": {
+      "message": "Administrer Abonnement"
+   },
+   "myaccount_why_get_subscription_subheader_text": {
+      "message": "Hvorfor købe et abonnement?"
+   },
+   "myaccount_why_renew_subheader_text": {
+      "message": "Hvorfor fornye?"
+   },
+   "networkLock_cancel_button_label": {
+      "message": "Annuller"
+   },
+   "networkLock_header_connected_text": {
+      "message": "VPN Forbundet"
+   },
+   "networkLock_header_connecting_text": {
+      "message": "Vent Venligst"
+   },
+   "networkLock_header_connection_error_text": {
+      "message": "Kan ikke Oprette Forbindelse"
+   },
+   "networkLock_header_reconnecting_text": {
+      "message": "Vent Venligst"
+   },
+   "networkLock_hint_connected_text": {
+      "message": "Du omdirigeres snart."
+   },
+   "networkLock_hint_connecting_text": {
+      "message": "Internettrafik er i øjeblikket blokeret for at beskytte dit privatliv."
+   },
+   "networkLock_hint_connection_error_text": {
+      "message": "Internettrafik er i øjeblikket blokeret for at beskytte dit privatliv."
+   },
+   "networkLock_hint_reconnecting_text": {
+      "message": "Internettrafik er i øjeblikket blokeret for at beskytte dit privatliv."
+   },
+   "networkLock_status_connected_text": {
+      "message": "Forbundet til \u003Cb>%LOCATION%\u003C/b>."
+   },
+   "networkLock_status_connecting_text": {
+      "message": "Forbinder til \u003Cb>%LOCATION%\u003C/b>."
+   },
+   "networkLock_status_connection_error_text": {
+      "message": "Kan ikke få forbindelse til \u003Cb>%LOCATION%\u003C/b>."
+   },
+   "networkLock_status_reconnecting_text": {
+      "message": "Genforbinder til \u003Cb>%LOCATION%\u003C/b>."
+   },
+   "networkLock_try_again_button_label": {
+      "message": "Prøv Igen"
+   },
+   "networkLock_unblock_internet_button_label": {
+      "message": "Afbloker Internet"
+   },
+   "notification_extension_update_message": {
+      "message": "Klik for at se hvad der er nyt i %VERSION%"
+   },
+   "notification_extension_update_title": {
+      "message": "ExpressVPN Opdateret"
+   },
+   "promo_bar_free_trial_expiring_soon_days_text": {
+      "message": "Gratis prøve udløber om [days] dage"
+   },
+   "promo_bar_free_trial_expiring_soon_expired_text": {
+      "message": "Din gratis prøve er udløbet "
+   },
+   "promo_bar_free_trial_expiring_soon_hours_text": {
+      "message": "Gratis prøve udløber om [hours] timer"
+   },
+   "promo_bar_free_trial_expiring_soon_less_than_one_hour_text": {
+      "message": "Gratis prøve udløber om \u003C1 time"
+   },
+   "promo_bar_free_trial_expiring_soon_upgrade_now_button_label": {
+      "message": "Opgrader nu"
+   },
+   "promo_bar_splittunneling_@firefox@_text": {
+      "message": "Firefox er ekskluderet fra VPN."
+   },
+   "promo_bar_splittunneling_settings_button_label": {
+      "message": "Gennemse indstillinger "
+   },
+   "promo_bar_splittunneling_text": {
+      "message": "Chrome ekskluderet fra VPN "
+   },
+   "promo_bar_subscription_expiring_soon_days_text": {
+      "message": "Abonnement udløber om [days] dage"
+   },
+   "promo_bar_subscription_expiring_soon_expired_text": {
+      "message": "Dit abonnement er udløbet "
+   },
+   "promo_bar_subscription_expiring_soon_get_new_subscription_button_label": {
+      "message": "Få nyt abonnement "
+   },
+   "promo_bar_subscription_expiring_soon_hours_text": {
+      "message": "Abonnement udløber om [hours] timer"
+   },
+   "promo_bar_subscription_expiring_soon_less_than_one_hour_text": {
+      "message": "Abonnement udløber om \u003C1 time"
+   },
+   "promo_bar_subscription_expiring_soon_renew_now_button_label": {
+      "message": "Forny nu"
+   },
+   "promobar_free_trial_expiring_soon_days_header": {
+      "message": "Gratis prøve udløber om [days] dage"
+   },
+   "promobar_free_trial_expiring_soon_expired_header": {
+      "message": "Din gratis prøve er udløbet "
+   },
+   "promobar_free_trial_expiring_soon_hours_header": {
+      "message": "Gratis prøve udløber om [hours] timer"
+   },
+   "promobar_free_trial_expiring_soon_less_than_one_hour_header": {
+      "message": "Gratis prøve udløber om \u003C1 time"
+   },
+   "promobar_free_trial_expiring_soon_text": {
+      "message": "Opgrader nu"
+   },
+   "promobar_iap_failed_header": {
+      "message": "Din sidste betaling mislykkedes"
+   },
+   "promobar_iap_failed_text": {
+      "message": "Opdater betalingsmetode"
+   },
+   "promobar_splittunneling_@firefox@_header": {
+      "message": "Firefox ekskluderet fra VPN"
+   },
+   "promobar_splittunneling_header": {
+      "message": "Chrome ekskluderet fra VPN "
+   },
+   "promobar_splittunneling_text": {
+      "message": "Gennemse indstillinger "
+   },
+   "promobar_subscription_expired_header": {
+      "message": "Dit abonnement udløber."
+   },
+   "promobar_subscription_expiring_autobill_header": {
+      "message": "Din sidste betaling mislykkedes"
+   },
+   "promobar_subscription_expiring_autobill_text": {
+      "message": "Opdater betalingsinfo"
+   },
+   "promobar_subscription_expiring_soon_days_header": {
+      "message": "Abonnement udløber om [days] dage"
+   },
+   "promobar_subscription_expiring_soon_expired_header": {
+      "message": "Dit abonnement er udløbet"
+   },
+   "promobar_subscription_expiring_soon_hours_header": {
+      "message": "Abonnement udløber om [hours] timer"
+   },
+   "promobar_subscription_expiring_soon_renewable_false_text": {
+      "message": "Få nyt abonnement "
+   },
+   "promobar_subscription_expiring_soon_renewable_true_text": {
+      "message": "Forny nu"
+   },
+   "promobar_update_available_header": {
+      "message": "Opdatering tilgængelig!"
+   },
+   "promobar_update_available_text": {
+      "message": "Installer nu"
+   },
+   "rating_improve_header": {
+      "message": "Hvad kan vi gøre bedre?"
+   },
+   "rating_improve_report_button": {
+      "message": "Rapportér et problem"
+   },
+   "rating_improve_suggest_button": {
+      "message": "Foreslå en forbedring"
+   },
+   "rating_no_thanks_text": {
+      "message": "Nej tak"
+   },
+   "rating_prompt_header": {
+      "message": "Hvor meget kan du lide ExpressVPN?"
+   },
+   "rating_prompt_ok_button": {
+      "message": "OK"
+   },
+   "rating_thanks4_text": {
+      "message": "Tak for din bedømmelse!"
+   },
+   "rating_thanks_@firefox@_text": {
+      "message": "Tak! Bedøm os i Firefox Add-ons Store?"
+   },
+   "rating_thanks_text": {
+      "message": "Tak! Bedøm os i Chrome Web Store?"
+   },
+   "settings_general_display_dropdown_auto_label": {
+      "message": "Match Enhedsindstillinger"
+   },
+   "settings_general_display_dropdown_dark_label": {
+      "message": "Mørk"
+   },
+   "settings_general_display_dropdown_light_label": {
+      "message": "Lys"
+   },
+   "settings_general_help_improve_description": {
+      "message": "Del crash-rapporter, hastighedstests, brugerdiagnostik og om VPN-forbindelsesforsøg lykkes. Disse rapporter indeholder aldrig personligt identificerbare oplysninger."
+   },
+   "settings_general_help_improve_label": {
+      "message": "Hjælp med at forbedre ExpressVPN"
+   },
+   "vpn_status_notification_connected_label": {
+      "message": "VPN Forbundet"
+   },
+   "vpn_status_notification_connected_text": {
+      "message": "Forbundet til %s."
+   },
+   "vpn_status_notification_connecting_label": {
+      "message": "VPN Opretter Forbindelse..."
+   },
+   "vpn_status_notification_connection_failed_label": {
+      "message": "VPN Kan Ikke Oprette Forbindelse"
+   },
+   "vpn_status_notification_connection_failed_network_lock_off_text": {
+      "message": "Ude af stand til at oprette forbindelse til %s."
+   },
+   "vpn_status_notification_connection_failed_network_lock_on_text": {
+      "message": "Kan ikke oprette forbindelse til %s. Internettrafik er blokeret."
+   },
+   "vpn_status_notification_connection_limit_label": {
+      "message": "Forbindelsesgrænse Nået"
+   },
+   "vpn_status_notification_connection_limit_text": {
+      "message": "Afbryd venligst forbindelsen til en enhed eller køb et abonnement mere."
+   },
+   "vpn_status_notification_reconnecting_label": {
+      "message": "VPN Genopretter Forbindelse..."
+   },
+   "vpn_status_notification_reconnecting_network_lock_off_text": {
+      "message": "Genforbinder til %s."
+   },
+   "vpn_status_notification_reconnecting_network_lock_on_text": {
+      "message": "Genopretter forbindelsen til %s. Internettrafik er blokeret."
+   },
+   "welcome_continue_button_label": {
+      "message": "Fortsæt"
+   },
+   "welcome_get_started_button_label": {
+      "message": "Kom I Gang"
+   },
+   "welcome_help_improve_expressvpn_header": {
+      "message": "Hjælp med at forbedre ExpressVPN"
+   },
+   "welcome_help_improve_expressvpn_no_button_label": {
+      "message": "Nej tak"
+   },
+   "welcome_help_improve_expressvpn_ok_button_label": {
+      "message": "OK"
+   },
+   "welcome_help_improve_expressvpn_p1_text": {
+      "message": "Del crash-rapporter, hastighedstests, brugerdiagnostik og om VPN-forbindelsesforsøg lykkes. Disse rapporter indeholder aldrig personligt identificerbare oplysninger."
+   },
+   "welcome_not_installed_buy_header": {
+      "message": "Kom i gang uden risiko"
+   },
+   "welcome_not_installed_buy_text": {
+      "message": "Abonner fra 8.32 USD/måned"
+   },
+   "welcome_not_installed_existing_button_label": {
+      "message": "Allerede kunde?"
+   },
+   "welcome_not_installed_get_button_label": {
+      "message": "Få ExpressVPN"
+   },
+   "welcome_not_installed_reasons_li_1_text": {
+      "message": "Sikre VPN-placeringer verden rundt"
+   },
+   "welcome_not_installed_reasons_li_2_text": {
+      "message": "Hurtige hastigheder og ubegrænset båndbredde"
+   },
+   "welcome_not_installed_reasons_li_3_text": {
+      "message": "24/7 support"
+   },
+   "welcome_not_installed_reasons_li_4_text": {
+      "message": "30-dages pengene-tilbage-garanti"
+   },
+   "welcome_not_installed_scene_1_text": {
+      "message": "En VPN beskytter dit privatliv ved at skjule din IP-adresse"
+   },
+   "welcome_not_installed_scene_2_text": {
+      "message": "Stream alt det indhold du elsker uden begrænsninger"
+   },
+   "welcome_not_installed_scene_3_text": {
+      "message": "Opret sikker forbindelse til offentlig wi-fi i hoteller, på caféer og i lufthavne"
+   },
+   "welcome_screen1_p1_text": {
+      "message": "ExpressVPN forlængelsen er en fjernbetjening for skrivebordsappen."
+   },
+   "welcome_screen2_p1_text": {
+      "message": "Når du er forbundet til VPN'en, så beskytter den hele din enhed, ikke kun browseren."
+   },
+   "welcome_screen3_learn_more_text": {
+      "message": "Lær mere"
+   },
+   "welcome_screen3_p1_text": {
+      "message": "Forlængelsen spoofer din placering, blokerer WebRTC og inkluderer HTTPS Everywhere."
+   },
+   "welcome_skip_button_label": {
+      "message": "Skip"
+   }
+}

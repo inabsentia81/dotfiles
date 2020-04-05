@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/inabsentia81/.config/wpg/wallpapers/wallhaven-8xkd9y.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#020107",
+        "foreground": "#acc8eb",
+        "cursor": "#acc8eb"
+    },
+    "colors": {
+        "color0": "#020107",
+        "color1": "#2F5A94",
+        "color2": "#5F5D98",
+        "color3": "#5C63A9",
+        "color4": "#A43F9F",
+        "color5": "#F36CE4",
+        "color6": "#5D85C2",
+        "color7": "#acc8eb",
+        "color8": "#788ca4",
+        "color9": "#2F5A94",
+        "color10": "#5F5D98",
+        "color11": "#5C63A9",
+        "color12": "#A43F9F",
+        "color13": "#F36CE4",
+        "color14": "#5D85C2",
+        "color15": "#acc8eb"
+    }
+}

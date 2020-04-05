@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/inabsentia81/.config/wpg/wallpapers/wallhaven-r2738j.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#1b1410",
+        "foreground": "#e9e9e0",
+        "cursor": "#e9e9e0"
+    },
+    "colors": {
+        "color0": "#1b1410",
+        "color1": "#B1674F",
+        "color2": "#A49472",
+        "color3": "#48719A",
+        "color4": "#558BC4",
+        "color5": "#A3A198",
+        "color6": "#D2C6AF",
+        "color7": "#e9e9e0",
+        "color8": "#a3a39c",
+        "color9": "#B1674F",
+        "color10": "#A49472",
+        "color11": "#48719A",
+        "color12": "#558BC4",
+        "color13": "#A3A198",
+        "color14": "#D2C6AF",
+        "color15": "#e9e9e0"
+    }
+}

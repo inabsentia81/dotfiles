@@ -1,0 +1,68 @@
+{
+   "appDesc": {
+      "message": "Huwag sayangin ang iyong oras nang may pagsunod. Ang Universal Bypass dinadaya ang nakakainis na mga shortener ng link."
+   },
+   "beforeNavigateTimer": {
+      "message": "Ikaw ay ididirektang awtomatiko sa loob ng % segundo."
+   },
+   "beforeNavigateTimerSingular": {
+      "message": "Ikaw ay ididirektang awtomatiko sa loob ng % segundo."
+   },
+   "changelog": {
+      "message": "Mga Pagbabago"
+   },
+   "crowdBypassed": {
+      "message": "Maaaring hindi mo na kailangang maghintay!"
+   },
+   "crowdBypassedIgnore": {
+      "message": "Hindi ba ito tama?"
+   },
+   "crowdBypassedOptions": {
+      "message": "Nais mo bang mabuksan ito sa isang bagong tab kaagad o sa x segundo?"
+   },
+   "crowdBypassedTimer": {
+      "message": "Ito ay bubuksan sa isang bagong tab sa % segundo."
+   },
+   "crowdBypassedTimerSingular": {
+      "message": "Ito ay bubuksan sa isang bagong tab sa 1 segundo."
+   },
+   "faq": {
+      "message": "Mga Madalas na Tanong"
+   },
+   "firstrunNoScript": {
+      "message": "Gayunpaman, mukhang gumagamit ka ng NoScript o katulad, na hindi katugma sa Universal Bypass."
+   },
+   "firstrunTitle": {
+      "message": "Salamat sa iyong pag i-install ng Universal Bypass!"
+   },
+   "options": {
+      "message": "Pagpipilian"
+   },
+   "optionsEnabled": {
+      "message": "Paganahin ang website bypasses."
+   },
+   "optionsLink": {
+      "message": "Baguhin ang mga pagpipilian sa Universal Bypass."
+   },
+   "optionsNavigationDelay": {
+      "message": "Ipunta mo ako sa destinasyon pagkatapos ng % segundo(s)."
+   },
+   "privacyPolicy": {
+      "message": "Patakaran sa Pagkapribado"
+   },
+   "support": {
+      "message": "Suportahan ang Universal Bypass"
+   },
+   "update": {
+      "message": "Suriin ang mga updates"
+   },
+   "updateNo": {
+      "message": "Bypasses ay updated."
+   },
+   "updateYes": {
+      "message": "Updated na ang mga bypasses."
+   },
+   "version": {
+      "message": "Bersyon"
+   }
+}

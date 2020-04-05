@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/inabsentia81/.config/wpg/wallpapers/wallhaven-nzmolg.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#110403",
+        "foreground": "#f4dfc4",
+        "cursor": "#f4dfc4"
+    },
+    "colors": {
+        "color0": "#110403",
+        "color1": "#AB5023",
+        "color2": "#CB692D",
+        "color3": "#AB684B",
+        "color4": "#DE8D47",
+        "color5": "#EB9D59",
+        "color6": "#EBB688",
+        "color7": "#f4dfc4",
+        "color8": "#aa9c89",
+        "color9": "#AB5023",
+        "color10": "#CB692D",
+        "color11": "#AB684B",
+        "color12": "#DE8D47",
+        "color13": "#EB9D59",
+        "color14": "#EBB688",
+        "color15": "#f4dfc4"
+    }
+}

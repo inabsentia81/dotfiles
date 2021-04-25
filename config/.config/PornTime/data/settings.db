@@ -1,9 +1,0 @@
-{"$$indexCreated":{"fieldName":"key","unique":true,"sparse":false}}
-{"key":"language","value":"en","_id":"wZNMqhPw32xBuaH3"}
-{"key":"version","value":"0.3.8-5","_id":"gtDZGy6YRZ9E7DZh"}
-{"key":"releaseName","value":"Naughty Girls","_id":"20wq4eQ1IJHEYG7r"}
-{"key":"arch","value":"x64","_id":"zOZQljmekAKHThYC"}
-{"key":"os","value":"linux","_id":"PeDCUugDuyozHg4b"}
-{"key":"liveChat","value":true,"_id":"3ULXEd279e160sow"}
-{"key":"UUID","value":"8f547a2f-db2e-44e2-8657-f08464e0e8d7","_id":"jHeg1I7OE0p8RDgT"}
-{"key":"disclaimerAccepted","value":1,"_id":"Pz9B7X23MgC8LZJ7"}
